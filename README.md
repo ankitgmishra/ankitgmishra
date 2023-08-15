@@ -7,7 +7,7 @@ I care deeply about unlocking the power of technology for individuals and busine
 
 **EDUCATION**
 
-* Pursuing Btech Artificial Intelligence & Machine Learning 
+* Pursuing Btech in Artificial Intelligence & Machine Learning 
 * Holding Diploma in Computer Science & Engineering
   
 **CERTIFICATIONS**
