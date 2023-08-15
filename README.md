@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hey! 👋
 
-<!--
-**Ankkkyyyy/Ankkkyyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Ankit, and I'm a **Computer Scientist** focusing on applied **Machine Learning**. I can help you build & sacale Software.
 
-Here are some ideas to get you started:
+I care deeply about unlocking the power of technology for individuals and businesses, so they can use computers in a way that was previously unrealistic for them. Bonus points if I can collaborate with a team of like-minded engineers!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+**EDUCATION**
+
+* Pursuing Btech Artificial Intelligence & Machine Learning 
+* Holding Diploma in Computer Science & Engineering
+  
+**CERTIFICATIONS**
+
+* [Machine Learning (IBM Online - Coursera)]()
+* [API Fundamentals Student Expert (Postman)]()
+
+
+
+📫  You can find me on [Twitter](https://twitter.com/ankkkyyyy) or [LinkedIn](https://www.linkedin.com/in/ankkkyyyy/).
