@@ -1,6 +1,6 @@
 ### Hey! 👋
 
-My name is Ankit, and I'm a **Computer Scientist** focusing on applied **Machine Learning**. I can help you build & sacale Software.
+My name is Ankit, and I'm a **undergrad** focusing on applied **Machine Learning**. I can help you build & sacale Software.
 
 I care deeply about unlocking the power of technology for individuals and businesses, so they can use computers in a way that was previously unrealistic for them. Bonus points if I can collaborate with a team of like-minded engineers!
 
