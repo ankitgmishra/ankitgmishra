@@ -1,4 +1,4 @@
-### Hey! 
+### Hello !
 
 My name is Ankit, and I'm a **undergrad** focusing on applied **Machine Learning**. I can help you in building and Scaling Software.
 
