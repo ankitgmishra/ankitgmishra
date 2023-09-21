@@ -21,5 +21,6 @@ I care deeply about unlocking the power of technology for individuals and busine
 
 📫 Do Check my Web [theankitmishra.live](https://www.theankitmishra.live/)
 
-Email: [ankitmishra.letter@gmail.com](ankitmishra.letter@gmail.com)
+Email: [ankitmishra.letter@gmail.com](mailto:ankitmishra.letter@gmail.com)
+
 
