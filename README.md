@@ -10,12 +10,6 @@ I care deeply about unlocking the power of technology for individuals and busine
 * Pursuing Btech in Artificial Intelligence & Machine Learning 
 * Holding Diploma in Computer Science & Engineering
   
-**CERTIFICATIONS**
-
-* [Machine Learning (IBM Online - Coursera)]()
-* [API Fundamentals Student Expert (Postman)]()
-
-
 
 📫  You can find me on [X](https://twitter.com/ankitmishralive/) or [LinkedIn](https://www.linkedin.com/in/ankitmishralive/).
 
