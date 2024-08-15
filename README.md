@@ -1,19 +1,27 @@
 ### Hello !
 
-Ankit Here, I'm a **undergrad** focusing on applied **Machine Learning**. I can help you in building and Scaling Software.
+Ankit Here, I'm an **undergrad**  deeply immersed in  **Generative A.I, Machine Learning, MLOps**. 
 
-I care deeply about unlocking the power of technology for individuals and businesses, so they can use computers in a way that was previously unrealistic for them. Bonus points if I can collaborate with a team of like-minded engineers!
+I care a whole lot about building software. Specifically, I lose sleep over Machine & Deep Learning.
+
+
+
 
 
 **EDUCATION**
 
-* Pursuing Btech in Artificial Intelligence & Machine Learning 
-* Holding Diploma in Computer Science & Engineering
-  
+* Pursuing Bachelor of Technology in A.I & Machine Learning 
+* Holding Diploma in Computer Engineering
+
+
+**Got a product idea ? Let’s bring it to life together.**
+
 
 📫  You can find me on [X](https://twitter.com/ankitmishralive/) or [LinkedIn](https://www.linkedin.com/in/ankitmishralive/).
 
-📫 Do Check my Web [ankitmishra.live](https://www.ankitmishra.live/)
+📫 Get a brief overview of me at  [ankitmishralive.github.io/](https://ankitmishralive.github.io)
+
+📫 Check out my main website for more details: [ankitmishra.live](https://www.ankitmishra.live/) 
 
 Email: [ankitmishra.letter@gmail.com](mailto:ankitmishra.letter@gmail.com)
 
