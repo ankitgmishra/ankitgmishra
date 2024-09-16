@@ -21,7 +21,7 @@ I care a whole lot about building software. Specifically, I lose sleep over Mach
 
 📫 Get a brief overview of me at  [ankitmishralive.github.io/](https://ankitmishralive.github.io)
 
-📫 Check out my main website for more details: [ankitmishra.live](https://www.ankitmishra.live/) 
+📫 Check out my main website for more details: [ankitmishra.live](https://ankitmishra.live/) 
 
 Email: [ankitmishra.letter@gmail.com](mailto:ankitmishra.letter@gmail.com)
 
