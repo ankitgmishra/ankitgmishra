@@ -1,28 +1,28 @@
-### Hello !
+# Ankit G. Mishra 
 
-Ankit Here, I'm an **undergrad**  deeply immersed in  **Generative A.I, Machine Learning, MLOps**. 
-
-I care a whole lot about building software. Specifically, I lose sleep over Machine & Deep Learning.
-
-
+Welcome to my GitHub profile! I’m an **undergraduate** student working in the fields of **Machine Learning**, **LLMs**, **LLMOps**, and **MLOps**.  
+I am passionate about helping individuals and businesses turn their ideas into impactful products.
+I strive to create innovative solutions that make a difference. 
 
 
 
-**EDUCATION**
 
-* Pursuing Bachelor of Technology in A.I & Machine Learning 
-* Holding Diploma in Computer Engineering
+## Education
+- **Bachelor of Technology** in **Artificial Intelligence & Machine Learning** ( In Progress)
+- **Diploma** in **Computer Engineering**
+
+---
+
+Do you have a product idea or project in mind? I would love to discuss how we can work together to bring it to life!
+## 📫 Contact Me
 
 
-**Got a product idea ? Let’s bring it to life together.**
+- **Twitter**: [@ankitmishralive](https://twitter.com/ankitmishralive/)
+- **LinkedIn**: [ankitmishralive](https://www.linkedin.com/in/ankitmishralive/)
+- **Portfolio**: [ankitmishralive.github.io](https://ankitmishralive.github.io)
+- **Main Website**: [ankitmishra.live](https://ankitmishra.live/)
+- **Email**: [ankitmishra.letter@gmail.com](mailto:ankitmishra.letter@gmail.com)
 
-
-📫  You can find me on [X](https://twitter.com/ankitmishralive/) or [LinkedIn](https://www.linkedin.com/in/ankitmishralive/).
-
-📫 Get a brief overview of me at  [ankitmishralive.github.io/](https://ankitmishralive.github.io)
-
-📫 Check out my main website for more details: [ankitmishra.live](https://ankitmishra.live/) 
-
-Email: [ankitmishra.letter@gmail.com](mailto:ankitmishra.letter@gmail.com)
+---
 
 
