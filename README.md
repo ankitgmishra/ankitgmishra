@@ -11,7 +11,6 @@ I strive to create innovative solutions that make a difference.
 - **Bachelor of Technology** in **Artificial Intelligence & Machine Learning** ( In Progress)
 - **Diploma** in **Computer Engineering**
 
----
 
 Do you have a product idea or project in mind? I would love to discuss how we can work together to bring it to life!
 ## 📫 Contact Me
@@ -23,6 +22,6 @@ Do you have a product idea or project in mind? I would love to discuss how we ca
 - **Main Website**: [ankitmishra.live](https://ankitmishra.live/)
 - **Email**: [ankitmishra.letter@gmail.com](mailto:ankitmishra.letter@gmail.com)
 
----
+
 
 
