@@ -1,6 +1,6 @@
 # Ankit Mishra 
 
-Welcome to my GitHub profile! I’m an **undergraduate** student working in the fields of **Machine Learning**, **LLMs**, **LLMOps**, and **MLOps**.  
+Welcome to my GitHub profile! I’m an **undergraduate** student working in the fields of  **Agents**, **RAGs**, **LLMs**, **LLMOps**, **Machine Learning** and **MLOps**.  
 I am passionate about helping individuals and businesses turn their ideas into impactful products.
 I strive to create innovative solutions that make a difference. 
 
