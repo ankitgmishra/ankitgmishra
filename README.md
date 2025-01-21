@@ -18,7 +18,7 @@ Do you have a product idea or project in mind? I would love to discuss how we ca
 
 - **Twitter**: [@ankitmishralive](https://twitter.com/ankitmishralive/)
 - **LinkedIn**: [ankitmishralive](https://www.linkedin.com/in/ankitmishralive/)
-- **Personal Website**: [ankitmishra.live](https://ankitmishra.live/)
+- **Personal Website**: [ankitmishralive.github.io](https://ankitmishralive.github.io/)
 - **Personal Email**: [ankitmishra.letter@gmail.com](mailto:ankitmishra.letter@gmail.com)
 
 
