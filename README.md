@@ -1,26 +1,23 @@
-# Ankit Mishra 
+# Ankit Mishra
 
-Welcome to my GitHub profile! I’m an **undergraduate** student working in the fields of  **Agents**, **RAGs**, **LLMs**, **LLMOps**, **Machine Learning** and **MLOps**.  
-I am passionate about helping individuals and businesses turn their ideas into impactful products.
-I strive to create innovative solutions that make a difference. 
+Welcome to my GitHub profile! I’m an **undergraduate** student with a focus on **Machine Learning**, **AI Agents**, **Multi-Agent Systems**, **RAGs**, **LLMs**, **Backend Systems**, and **MLOps**.  
 
-
+I’m passionate about turning ideas into impactful products and creating innovative solutions that drive real change.
 
 
-## Education
-- **Bachelor of Technology** in **Artificial Intelligence & Machine Learning** ( In Progress)
-- **Diploma** in **Computer Engineering**
 
+Have an idea or project in mind? Let’s connect and discuss how we can collaborate to bring it to life!
 
-Do you have a product idea or project in mind? I would love to discuss how we can work together to bring it to life!
-## 📫 Contact Me
+## 📫 Connect with Me
 
-
+- **Personal Website**: [aiankit.com](https://aiankit.com/)
+- **Articles**: [aiankit.com/notebook/](https://aiankit.com/notebook/)
+- **Email**: [ankitmishra.letter@gmail.com](mailto:ankitmishra.letter@gmail.com)
 - **Twitter**: [@ankitmishralive](https://twitter.com/ankitmishralive/)
 - **LinkedIn**: [ankitmishralive](https://www.linkedin.com/in/ankitmishralive/)
-- **Personal Website**: [aiankit.com](https://aiankit.com/)
-- **Personal Email**: [ankitmishra.letter@gmail.com](mailto:ankitmishra.letter@gmail.com)
 
-
+## Education
+- **Bachelor of Technology** in **Artificial Intelligence & Machine Learning**
+- **Diploma** in **Computer Engineering**
 
 
