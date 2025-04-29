@@ -6,7 +6,7 @@ I’m passionate about turning ideas into impactful products and creating innova
 
 
 
-Have an idea or project in mind? Let’s connect and discuss how we can collaborate to bring it to life!
+Have an idea or product in mind? Let’s connect and discuss how we can collaborate to bring it to life!
 
 ## 📫 Connect with Me
 
