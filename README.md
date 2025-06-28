@@ -13,8 +13,8 @@ Have an idea or product in mind? Let’s connect and discuss how we can collabor
 - **Personal Website**: [aiankit.com](https://aiankit.com/)
 - **Articles**: [aiankit.com/notebook/](https://aiankit.com/notebook/)
 - **Email**: [ankitmishra.letter@gmail.com](mailto:ankitmishra.letter@gmail.com)
-- **Twitter**: [@ankitmishralive](https://twitter.com/ankitmishralive/)
-- **LinkedIn**: [ankitmishralive](https://www.linkedin.com/in/ankitmishralive/)
+- **Twitter**: [@ankitxmishra](https://twitter.com/ankitxmishra/)
+- **LinkedIn**: [ankitgmishra](https://www.linkedin.com/in/ankitgmishra/)
 
 ## Education
 - **Bachelor of Technology** in **Artificial Intelligence & Machine Learning**
