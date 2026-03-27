@@ -25,7 +25,7 @@ If you are working on a challenging problem or building a high-impact product, I
 
 ---
 
-#### **Software Engineer Intern** — Homestogether, Thane, India *(Jun 2024 – Aug 2024)*
+#### **Software Engineer [ Part-Time ]** — Homestogether, Navi Mumbai, India *(Jun 2024 – Aug 2024)*
 - Developed a CMS webapplication that allowed administrators to efficiently list properties and manage full website content end-to-end.
 
 ---
@@ -35,7 +35,7 @@ If you are working on a challenging problem or building a high-impact product, I
 
 ---
 
-#### **Software Engineer Intern** — Shoziki, Delhi, India *(Dec 2023 – Feb 2024)*
+#### **Software Engineer [ Intern ]** — Shoziki, Delhi, India *(Dec 2023 – Feb 2024)*
 - Learned everything about what not to do while running a startup by working in this startup.
 - About my Technical Contribution: 
 -Engineered a robust CMS software and played a key role in the end-to-end development of the firm's flagship product, Travel With Shoziki, enhancing system efficiency and user experience.
@@ -43,7 +43,7 @@ If you are working on a challenging problem or building a high-impact product, I
 
 ---
 
-#### **Software Engineer Intern** — Verbient Technologies, Jaipur, India *(Dec 2022 – Mar 2023)*
+#### **Software Engineer [ Intern ]** — Verbient Technologies, Jaipur, India *(Dec 2022 – Mar 2023)*
 - Independently developed backend systems, improved user interfaces and interactions, and implemented client-side validation and business logic.
 - Managed end-to-end deployment of web applications on AWS EC2, ensuring scalability and performance.
 
