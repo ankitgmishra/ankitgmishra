@@ -14,8 +14,9 @@ My interests span **Agentic AI**, **Software Engineering** ,**Backend Engineerin
 </p>
 
 <p align="center">
-<i>The Mathematics Behind Modern AI</i>
+<i>The Mathematics That Bent The Trajectory of AI </i>
 </p>
+
 
 ---
 
