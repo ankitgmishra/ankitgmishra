@@ -21,8 +21,8 @@ My interests span **Agentic AI**, **Software Engineering** ,**Backend Engineerin
 
 ### Links
 
-- Website — [aiankit.com](https://aiankit.com)
-- GitHub — [github.com/ankitgmishra](https://github.com/ankitgmishra)
-- LinkedIn — [linkedin.com/in/ankitgmishra](https://linkedin.com/in/ankitgmishra)
-- X — [@ankitxmishra](https://twitter.com/ankitxmishra)
+* Website — [aiankit.com](https://aiankit.com)
+* Email — [ankitmishra.letter@gmail.com](mailto:ankitmishra.letter@gmail.com)
+
+
 
